@@ -2,7 +2,7 @@
 🌐 HTML, CSS, Bootstrap
 ☕ Java
 🗄️ SQL
-🛢️ DBMS: MySQL, PostgreSQL
+🛠️ MySQL, PostgreSQL (DBMS)
 🐧 Linux
 
 Sempre pronto per nuove sfide e progetti! 🚀
